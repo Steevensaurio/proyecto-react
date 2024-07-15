@@ -18,7 +18,7 @@ const Criptos = () => {
           })
       }, [])
 
-    if(!criptos) return <span>Cargando ...</span>
+    if(!criptos) return <span>Cargando ....</span>
 
     return (
         <>
