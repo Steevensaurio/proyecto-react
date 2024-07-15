@@ -1,0 +1,13 @@
+
+.div {
+    align-self: center;
+}
+
+.div-criptos{
+    margin: auto;
+    background: beige;
+    border-radius: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 75%;
+    align-self: auto;
+}

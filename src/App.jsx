@@ -1,13 +1,12 @@
-import { useState } from 'react'
-
-
+import Criptos from "./components/Criptos"
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      <h1>Hola Mundo</h1>
+      <h1>Lista de Criptomonedas</h1>
+      <Criptos/>
+      
     </>
   )
 }
